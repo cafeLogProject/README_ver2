@@ -231,6 +231,8 @@
 		- 카페 스크랩 추가, 해제
   	- 스프링 시큐리티를 사용한 인증, 인가 기능
 		- JWT 토큰 발급, 재발급
+- [문남경]
+	- 
 - [이승헌]
     - 마이페이지 관련 기능
         - 내 정보 조회, 수정
@@ -319,6 +321,29 @@ server:
 # 참고
 - https://velog.io/@giant_toothpick/mixed-content-error-처리하기-with.-Nginx
 - https://velog.io/@jamie/mixed-content-error
+
+</details>
+</details>
+
+<details>
+<summary> 문남경 </summary>
+	
+<details>
+<summary> ~~문제</summary>
+<br>
+
+# 🤔문제 발생
+- 
+
+# 🔍원인 분석
+- 
+
+# ⛏해결 과정
+- 
+
+
+# 💎결론
+- 
 
 </details>
 </details>
