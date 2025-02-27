@@ -100,6 +100,10 @@
   <tr>
     <td align="center"><strong>프로필 수정</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README/main/image/video/profile_edit.gif" width="40%"></td>
   </tr>
+  <tr>
+    
+  </tr>
+	
 </table>
 <br>
 
@@ -231,8 +235,9 @@
 		- 카페 스크랩 추가, 해제
   	- 스프링 시큐리티를 사용한 인증, 인가 기능
 		- JWT 토큰 발급, 재발급
+
 - [문남경]
-	- 
+	- !
 - [이승헌]
     - 마이페이지 관련 기능
         - 내 정보 조회, 수정
