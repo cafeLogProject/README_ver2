@@ -101,8 +101,12 @@
     <td align="center"><strong>프로필 수정</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README/main/image/video/profile_edit.gif" width="40%"></td>
   </tr>
   <tr>
-    
+    <td align="center"><strong>팔로잉 리뷰 조회<br></td>
   </tr>
+  <tr>
+    <td align="center"><strong>유저 검색 & 유저페이지 & 팔로우, 언팔로우<br></td>
+  </tr>
+
 	
 </table>
 <br>
