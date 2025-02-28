@@ -1,4 +1,4 @@
-<!-- <div style="display: flex; justify-content: center;">
+![제목 없는 동영상 - Clipchamp로 제작](https://github.com/user-attachments/assets/61d97cf9-c0c8-4a70-a2a7-97c544adc2fa)<!-- <div style="display: flex; justify-content: center;">
   <img src="https://raw.githubusercontent.com/cafeLogProject/README/main/image/brewscape.png" alt="Brewscape Logo">
 </div> -->
 
@@ -82,24 +82,24 @@
 
 <table>
   <tr>
-    <td align="center"><strong>카페 검색 + 카페정보</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README/main/image/video/cafe_search.gif" width="40%"></td>
-    <td align="center"><strong>카페 스크랩</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README/main/image/video/cafe_detail.gif" width="40%"></td>
+    <td align="center"><strong>카페 검색 + 카페정보</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README_ver/main/image/video/cafe_search.gif" width="40%"></td>
+    <td align="center"><strong>카페 스크랩</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README_ver/main/image/video/cafe_detail.gif" width="40%"></td>
   </tr>
   <tr>
-    <td align="center"><strong>리뷰 무한스크롤</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README/main/image/video/review_filter.gif" width="40%"></td>
-    <td align="center"><strong>팔로잉 리뷰 조회</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README/main/image/video/review_write.gif" width="40%"></td>
+    <td align="center"><strong>리뷰 무한스크롤</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README_ver/main/image/video/review_filter.gif" width="40%"></td>
+    <td align="center"><strong>팔로잉 리뷰 조회</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README_ver/main/image/video/review_write.gif" width="40%"></td>
   </tr>
   <tr>
-    <td align="center"><strong>리뷰 필터링 조회</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README/main/image/video/review_draft.gif" width="40%"></td>
-    <td align="center"><strong>리뷰 작성</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README/main/image/video/login.gif" width="40%"></td>
+    <td align="center"><strong>리뷰 필터링 조회</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README_ver/main/image/video/review_draft.gif" width="40%"></td>
+    <td align="center"><strong>리뷰 작성</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README_ver/main/image/video/login.gif" width="40%"></td>
   </tr>
   <tr>
-    <td align="center"><strong>리뷰 임시저장</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README/main/image/video/cafe_scrap.gif" width="40%"></td>
-    <td align="center" colspan="2"><strong>마이페이지 + 팔로잉,팔로워 조회/strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README/main/image/video/mypage_review_scroll.gif" width="40%"></td>
+    <td align="center"><strong>리뷰 임시저장</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README_ver/main/image/video/cafe_scrap.gif" width="40%"></td>
+    <td align="center" colspan="2"><strong>마이페이지 + 팔로잉,팔로워 조회/strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README_ver/main/image/video/mypage_review_scroll.gif" width="40%"></td>
   </tr>
   <tr>
     <td align="center"><strong>유저 검색 &유저페이지 & 팔로우, 언팔로우<br></td>
-    <td align="center"><strong>프로필 수정</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README/main/image/video/profile_edit.gif" width="40%"></td>
+    <td align="center"><strong>프로필 수정</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README_ver/main/image/video/profile_edit.gif" width="40%"></td>
   </tr>
   <tr>
      <td align="center"><strong>회원가입, 로그인<br></td>
