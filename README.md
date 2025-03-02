@@ -91,7 +91,7 @@
   </tr>
   <tr>
     <td align="center"><strong>리뷰 필터링 조회</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README_ver2/main/image/video/review_filltering_search.gif" width="40%"></td>
-    <td align="center"><strong>리뷰 작성</strong><br><img src="[https://github.com/user-attachments/assets/85f33280-47c3-48bf-a3d9-a2e4c2dbe273]" width="40%"></td>
+    <td align="center"><strong>리뷰 작성</strong><br><img src="https://github.com/user-attachments/assets/85f33280-47c3-48bf-a3d9-a2e4c2dbe273" width="40%"></td>
   </tr>
   <tr>
     <td align="center"><strong>리뷰 임시저장</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README_ver2/main/image/video/review_draft_write.gif" width="40%"></td>
