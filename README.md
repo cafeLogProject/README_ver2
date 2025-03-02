@@ -37,7 +37,7 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/acoldbottle">김병찬</a></td>
-    <td align="center">문남경</td>
+    <td align="center"><a href="https://github.com/moonnamkyung">문남경</td>
     <td align="center"><a href="https://github.com/florence1920">이승헌</a></td>
     <td align="center"><a href="https://github.com/rough78">임용태</a></td>
     <td align="center"><a href="https://github.com/leejuyeon-star">이주연</a></td>
@@ -75,6 +75,7 @@
   </tr>
 </table>
 
+![리뷰작성(2배속)_용량줄이기](https://github.com/user-attachments/assets/85f33280-47c3-48bf-a3d9-a2e4c2dbe273)
 
 
 <br>
@@ -92,7 +93,7 @@
   </tr>
   <tr>
     <td align="center"><strong>리뷰 필터링 조회</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README_ver2/main/image/video/review_filltering_search.gif" width="40%"></td>
-    <td align="center"><strong>리뷰 작성</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README_ver2/main/image/video/review_write.gif" width="40%"></td>
+    <td align="center"><strong>리뷰 작성</strong><br><img src="[https://github.com/user-attachments/assets/85f33280-47c3-48bf-a3d9-a2e4c2dbe273]" width="40%"></td>
   </tr>
   <tr>
     <td align="center"><strong>리뷰 임시저장</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README_ver2/main/image/video/review_draft_write.gif" width="40%"></td>
@@ -241,7 +242,7 @@
 		- JWT 토큰 발급, 재발급
 
 - [문남경]
-	- !
+	- QA 진행 및 css 수정
 - [이승헌]
     - 마이페이지 관련 기능
         - 내 정보 조회, 수정
@@ -329,29 +330,6 @@ server:
 # 참고
 - https://velog.io/@giant_toothpick/mixed-content-error-처리하기-with.-Nginx
 - https://velog.io/@jamie/mixed-content-error
-
-</details>
-</details>
-
-<details>
-<summary> 문남경 </summary>
-	
-<details>
-<summary> ~~문제</summary>
-<br>
-
-# 🤔문제 발생
-- 
-
-# 🔍원인 분석
-- 
-
-# ⛏해결 과정
-- 
-
-
-# 💎결론
-- 
 
 </details>
 </details>
