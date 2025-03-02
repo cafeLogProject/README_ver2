@@ -28,8 +28,7 @@
 <br>
 
 ## 📅 개발 기간
-#### `2024.12.13 ~ 2025.2.6 (2개월)`
-
+#### `2024.12.13 ~ 2025.2.28 (3개월)
 <br>
 
 ## 🏃 팀원 소개
@@ -1444,6 +1443,6 @@ public class AddReviewImageTest {
 
 ## 🔗 프로젝트 문서
 * [노션](https://www.notion.so/18fc5e41552d81bfa985c870e5c2fed4)
-* [포스트맨](https://www.postman.com/cafelog/cafelog-team/overview)
-* [피그마](https://www.figma.com/design/UPFpjUYoJa0nx1GiQNktp0/%5B2025-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D-%EC%BB%A4%ED%94%BC-%EA%B8%B0%EB%A1%9D?node-id=0-1&t=0iUqRTZvxP7KlhpO-1)
+* [포스트맨](https://www.postman.com/cafelog/workspace/brewscape/collection/29229206-35a74e5f-6a03-4cef-a42b-a8f715c49f6a?action=share&creator=29229206)
+* [피그마](https://www.figma.com/design/oKBqtFRDw3inqtQKFvjAtX/%5B2025-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D-%EC%BB%A4%ED%94%BC-%EA%B8%B0%EB%A1%9D_v2?node-id=0-1&t=imFTzWrwa0Xzungi-1)
 
