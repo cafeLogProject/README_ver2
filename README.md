@@ -75,8 +75,6 @@
   </tr>
 </table>
 
-![리뷰작성(2배속)_용량줄이기](https://github.com/user-attachments/assets/85f33280-47c3-48bf-a3d9-a2e4c2dbe273)
-
 
 <br>
 
