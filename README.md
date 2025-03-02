@@ -77,7 +77,6 @@
 
 <br>
 
-
 ## 🔍 주요 기능
 
 <table>
@@ -99,7 +98,7 @@
   </tr>	
   <tr>
     <td align="center">
-      <img src="[https://github.com/user-attachments/assets/1acd8b22-6d45-4371-97fa-8d1ef292db49]" alt="리뷰 무한스크롤" width="40%">
+      <img src="https://github.com/user-attachments/assets/954ebea0-5dc1-49fc-9916-4857acc714aa" alt="리뷰 무한스크롤" width="40%">
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/faca1ec6-175a-440f-8678-e83b1c70d724" alt="팔로우한 유저의 리뷰 조회" width="40%">
