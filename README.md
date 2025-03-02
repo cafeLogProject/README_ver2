@@ -75,8 +75,8 @@
   </tr>
 </table>
 
-
 <br>
+
 
 ## 🔍 주요 기능
 
@@ -99,7 +99,7 @@
   </tr>	
   <tr>
     <td align="center">
-      <img src="[https://github.com/user-attachments/assets/4dfa7ed6-92c9-4ecc-875a-e694555c6577]" alt="리뷰 무한스크롤" width="40%">
+      <img src="[https://github.com/user-attachments/assets/1acd8b22-6d45-4371-97fa-8d1ef292db49]" alt="리뷰 무한스크롤" width="40%">
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/faca1ec6-175a-440f-8678-e83b1c70d724" alt="팔로우한 유저의 리뷰 조회" width="40%">
@@ -126,7 +126,7 @@
       <img src="https://github.com/user-attachments/assets/3653c5da-6d0b-4fae-8885-fbb200b7441e" alt="리뷰 임시저장" width="40%">
     </td>
     <td align="center">
-      <img src="[https://github.com/user-attachments/assets/4dfa7ed6-92c9-4ecc-875a-e694555c6577]" alt="마이페이지 + 팔로잉,팔로워 조회" width="40%">
+      <img src="https://github.com/user-attachments/assets/12df0b88-d300-4ee9-abf1-6a8b5588203a" alt="마이페이지 + 팔로잉,팔로워 조회" width="40%">
     </td>
   </tr>
   <tr>
@@ -135,10 +135,10 @@
   </tr>	
   <tr>
     <td align="center">
-      <img src="[https://github.com/user-attachments/assets/4dfa7ed6-92c9-4ecc-875a-e694555c6577]" alt="유저 검색 + 유저페이지 + 팔로우, 언팔로우" width="40%">
+      <img src="https://github.com/user-attachments/assets/2e037f1f-05f9-4fc5-9fae-523d08a2c0ad" alt="유저 검색 + 유저페이지 + 팔로우, 언팔로우" width="40%">
     </td>
     <td align="center">
-      <img src="[https://github.com/user-attachments/assets/4dfa7ed6-92c9-4ecc-875a-e694555c6577]" alt="프로필 수정" width="40%">
+      <img src="https://github.com/user-attachments/assets/c2ab8044-1157-49d8-9186-9849aba8505c" alt="프로필 수정" width="40%">
     </td>
   </tr>
   <tr>
@@ -146,7 +146,7 @@
   </tr>	
   <tr>
     <td align="center">
-      <img src="[https://github.com/user-attachments/assets/4dfa7ed6-92c9-4ecc-875a-e694555c6577]" alt="회원가입, 로그인" width="40%">
+      <img src="https://github.com/user-attachments/assets/b6f974fe-5bf9-4e38-b52c-ff7066b5b85f" alt="회원가입, 로그인" width="40%">
     </td>
   </tr>
 </table>
