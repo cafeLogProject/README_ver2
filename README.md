@@ -1,3 +1,5 @@
+## 3월3일까지 자유롭게 수정해주시면 됩니다~ 3월3일 이후에는 수정 못하도록 닫을 예정입니다!
+
 <!-- <div style="display: flex; justify-content: center;">
   <img src="https://raw.githubusercontent.com/cafeLogProject/README/main/image/brewscape.png" alt="Brewscape Logo">
 </div> -->
@@ -276,7 +278,6 @@
  		- 리뷰 이미지 CRUD
 		- 임시저장 리뷰 이미지 CRUD
 		- 프로필 이미지 CRUD
-  	- 닉네임 랜덤 생성 기능
 
 
 
@@ -1442,7 +1443,7 @@ public class AddReviewImageTest {
 </details>
 
 ## 🔗 프로젝트 문서
-* [노션](https://www.notion.so/18fc5e41552d81bfa985c870e5c2fed4)
+* [노션](https://www.notion.so/brewscape-1aa5086f3cd981d8bfc7d1268f412eef)
 * [포스트맨](https://www.postman.com/cafelog/workspace/brewscape/collection/29229206-35a74e5f-6a03-4cef-a42b-a8f715c49f6a?action=share&creator=29229206)
 * [피그마](https://www.figma.com/design/oKBqtFRDw3inqtQKFvjAtX/%5B2025-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D-%EC%BB%A4%ED%94%BC-%EA%B8%B0%EB%A1%9D_v2?node-id=0-1&t=imFTzWrwa0Xzungi-1)
 
