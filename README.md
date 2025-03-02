@@ -82,28 +82,73 @@
 
 <table>
   <tr>
-    <td align="center"><strong>카페 검색 + 카페정보</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README_ver2/main/image/video/cafe_search.gif" width="40%"></td>
-    <td align="center"><strong>카페 스크랩</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README_ver2/main/image/video/cafe_scrap.gif" width="40%"></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>리뷰 무한스크롤</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README_ver2/main/image/video/review_infinite_scroll.gif" width="40%"></td>
-    <td align="center"><strong>팔로잉 리뷰 조회</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README_ver2/main/image/video/review_following_search.gif" width="40%"></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>리뷰 필터링 조회</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README_ver2/main/image/video/review_filltering_search.gif" width="40%"></td>
-    <td align="center"><strong>리뷰 작성</strong><br><img src="https://github.com/user-attachments/assets/85f33280-47c3-48bf-a3d9-a2e4c2dbe273" width="40%"></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>리뷰 임시저장</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README_ver2/main/image/video/review_draft_write.gif" width="40%"></td>
-    <td align="center" colspan="2"><strong>마이페이지 + 팔로잉,팔로워 조회</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README_ver2/main/image/video/mypage.gif" width="40%"></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>유저 검색 &유저페이지 & 팔로우, 언팔로우</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README_ver2/main/image/video/userpage.gif" width="40%"></td>
-    <td align="center"><strong>프로필 수정</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README_ver2/main/image/video/profile_edit.gif" width="40%"></td>
-  </tr>
-  <tr>
-     <td align="center"><strong>회원가입, 로그인</strong><br><img src="https://raw.githubusercontent.com/cafeLogProject/README_ver2/main/image/video/login.gif" width="40%"></td>
+    <td align="center"><strong>카페 검색 + 카페 정보</strong></td>
+    <td align="center"><strong>카페 스크랩</strong></td> 
   </tr>	
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/4dfa7ed6-92c9-4ecc-875a-e694555c6577" alt="카페 검색 + 카페 정보" width="40%">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/1cc60b08-5b6f-4a3a-a2af-57c60e37c2d8" alt="카페 스크랩" width="40%">
+    </td>
+  </tr>	
+  <tr>
+    <td align="center"><strong>리뷰 무한스크롤</strong></td>
+    <td align="center"><strong>팔로우한 유저의 리뷰 조회</strong></td> 
+  </tr>	
+  <tr>
+    <td align="center">
+      <img src="[https://github.com/user-attachments/assets/4dfa7ed6-92c9-4ecc-875a-e694555c6577]" alt="리뷰 무한스크롤" width="40%">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/faca1ec6-175a-440f-8678-e83b1c70d724" alt="팔로우한 유저의 리뷰 조회" width="40%">
+    </td>
+  </tr>	
+  <tr>
+    <td align="center"><strong>리뷰 필터링 조회</strong></td>
+    <td align="center"><strong>리뷰 작성</strong></td> 
+  </tr>	
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/d3b4645e-cfab-44a8-b78a-fc5187059ae5" alt="리뷰 필터링 조회" width="40%">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/36fccb43-77e3-411b-87c6-b6b02e6a7620" alt="리뷰 작성" width="40%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>리뷰 임시저장</strong></td>
+    <td align="center"><strong>마이페이지 + 팔로잉,팔로워 조회</strong></td> 
+  </tr>	
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/3653c5da-6d0b-4fae-8885-fbb200b7441e" alt="리뷰 임시저장" width="40%">
+    </td>
+    <td align="center">
+      <img src="[https://github.com/user-attachments/assets/4dfa7ed6-92c9-4ecc-875a-e694555c6577]" alt="마이페이지 + 팔로잉,팔로워 조회" width="40%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>유저 검색 + 유저페이지 + 팔로우, 언팔로우</strong></td>
+    <td align="center"><strong>프로필 수정</strong></td> 
+  </tr>	
+  <tr>
+    <td align="center">
+      <img src="[https://github.com/user-attachments/assets/4dfa7ed6-92c9-4ecc-875a-e694555c6577]" alt="유저 검색 + 유저페이지 + 팔로우, 언팔로우" width="40%">
+    </td>
+    <td align="center">
+      <img src="[https://github.com/user-attachments/assets/4dfa7ed6-92c9-4ecc-875a-e694555c6577]" alt="프로필 수정" width="40%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>회원가입, 로그인</strong></td>
+  </tr>	
+  <tr>
+    <td align="center">
+      <img src="[https://github.com/user-attachments/assets/4dfa7ed6-92c9-4ecc-875a-e694555c6577]" alt="회원가입, 로그인" width="40%">
+    </td>
+  </tr>
 </table>
 <br>
 
