@@ -1,5 +1,3 @@
-## 3월3일까지 자유롭게 수정해주시면 됩니다~ 3월3일 이후에는 수정 못하도록 닫을 예정입니다!
-
 <!-- <div style="display: flex; justify-content: center;">
   <img src="https://raw.githubusercontent.com/cafeLogProject/README/main/image/brewscape.png" alt="Brewscape Logo">
 </div> -->
